@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alejandro-Vidaurrazaga
 - 👀 I’m interested in learn as much as I can
-- 🌱 I’m currently learning data science
+- 🌱 I’m a data scientist
 - 💞️ I’m looking to collaborate on any python or data science projects
 - 📫 How to reach me ...
 
